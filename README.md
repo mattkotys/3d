@@ -6,4 +6,6 @@ To run `build123d` Python files, whether as a `.ipynb` notebook or a `.py` scrip
 ```console
 python -m pip install build123d ocp_vscode
 ```
+And you should get this pane to pop up when you run `build123d` cells or python files that import `build123d` in the integrated terminal:
 
+![image](https://github.com/user-attachments/assets/dfee8f02-8aa1-4ea9-84cf-7f39976b9e41)
